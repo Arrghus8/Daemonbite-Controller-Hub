@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "daemonbite_controller_hub")(type "KiCad")(uri "${KIPRJMOD}/daemonbite_controller_hub.pretty")(options "")(descr ""))
+)
