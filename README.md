@@ -11,6 +11,7 @@ This is an add-on board for the MiSTer FPGA project to provide original hardware
 - 2x DB9 male port: https://www.aliexpress.com/item/33047048440.html
 - 2x SNES port (90 degree): https://www.aliexpress.com/item/32838396935.html
 - 2x NES port (90 degree): https://www.aliexpress.com/item/32875874969.html
+- 4x M3 Male 6mm x M3 Female 20mm Standoff: https://www.aliexpress.com/item/32667773402.html
 
 # Roadmap
 
