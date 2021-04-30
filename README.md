@@ -2,7 +2,7 @@
 
 ![daemonbite-controller-hub](https://user-images.githubusercontent.com/83313810/116638859-3572aa00-a935-11eb-8ef9-114f12c992d6.png)
 
-This is an add-on board for the MiSTer FPGA project to provide original hardware inputs for SNES, NES and Genesis controllers using Daemonbite adapters (see https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB). The current version serves only as a mount for the Daemonbites and controller ports.
+This is an add-on board for the MiSTer FPGA project to provide original hardware inputs for SNES, NES and Genesis controllers using Daemonbite adapters (see https://github.com/MickGyver/DaemonBite-Retro-Controllers-USB). The current version serves only as a mount for the Arduinos and controller ports.
 
 # Parts needed (v0.1):
 
